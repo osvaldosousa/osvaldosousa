@@ -5,7 +5,7 @@
 
    Sou um desenvolvedor web com um ano de experiência em programação e atualmente estou estudando o React.js. Meus projetos de front-end podem ser encontrados em meus repositórios.
 
-![osvaldosousa GitHub stats](https://github-readme-stats.vercel.app/api?username=osvaldosousa&show_icons=true&theme=material-palenight)
+<!-- ![osvaldosousa GitHub stats](https://github-readme-stats.vercel.app/api?username=osvaldosousa&show_icons=true&theme=material-palenight) -->
 
   
 <div style="display: inline_block">
