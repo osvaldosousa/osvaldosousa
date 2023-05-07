@@ -1,6 +1,6 @@
 <img width=100%  src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-## Olá, tudo bem? Sou o Osvaldo Sousa, Desenvolvedor FrontEnd.
+## Olá, Sou o Osvaldo Sousa, Desenvolvedor FrontEnd.
 
 
    Sou um desenvolvedor web com um ano de experiência em programação e atualmente estou estudando o React.js. Meus projetos de front-end podem ser encontrados em meus repositórios.
